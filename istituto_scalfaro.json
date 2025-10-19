@@ -1,0 +1,32 @@
+{
+  "istituto": {
+    "nome": "Istituto di Istruzione Superiore Ercolino Scalfaro",
+    "descrizione": "L’Istituto Ercolino Scalfaro è una scuola moderna e dinamica di Catanzaro. Promuove l’innovazione, la cittadinanza attiva e le competenze digitali.",
+    "logo": "https://www.istitutoscalfaro.edu.it/wp-content/uploads/2020/05/logo-scalfaro.png",
+    "sito_web": "https://www.istitutoscalfaro.edu.it",
+    "indirizzi": [
+      {
+        "nome": "Informatica e Telecomunicazioni",
+        "articolazione": "Informatica",
+        "materie": [
+          "Informatica",
+          "Sistemi e Reti",
+          "TPSIT",
+          "Telecomunicazioni",
+          "Gestione Progetto e Impresa",
+          "Matematica"
+        ]
+      },
+      {
+        "nome": "Liceo Scientifico delle Scienze Applicate",
+        "articolazione": "",
+        "materie": [
+          "Matematica",
+          "Fisica",
+          "Scienze Naturali",
+          "Informatica",
+          "Italiano"
+        ]
+      },
+      {
+        "nome": "Ammi
